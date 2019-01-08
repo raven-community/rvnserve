@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "rvnqueryd": "^1.0.0",
+    "rvnqueryd": "github:raven-community/rvnqueryd#master",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
