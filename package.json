@@ -1,15 +1,19 @@
 {
   "name": "rvnserve",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "rvndb microservice",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raven-community/rvnserve.git"
+  },
   "scripts": {
     "start": "node index"
   },
-  "author": "",
+  "author": "MSFTserver",
   "license": "ISC",
   "dependencies": {
-    "rvnqueryd": "github:raven-community/rvnqueryd#master",
+    "rvnqueryd": "^1.0.0",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
