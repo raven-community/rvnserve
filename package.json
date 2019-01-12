@@ -1,6 +1,6 @@
 {
   "name": "rvnserve",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "rvndb microservice",
   "main": "index.js",
   "repository": {
@@ -13,7 +13,7 @@
   "author": "MSFTserver",
   "license": "ISC",
   "dependencies": {
-    "rvnqueryd": "^1.0.0",
+    "rvnqueryd": "^1.0.1",
     "dotenv": "^6.0.0",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
